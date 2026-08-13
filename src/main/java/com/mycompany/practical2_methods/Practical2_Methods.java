@@ -28,3 +28,4 @@ public class Practical2_Methods {
     }
 }
 // we cant put anything outside this class for now
+// Testing Git hub commits
